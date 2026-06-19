@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: f0e940e9-8d76-4f94-9ee1-b1735f2b9666
+
+localResources:
+  specs:
+    - ../contract/index.yaml
